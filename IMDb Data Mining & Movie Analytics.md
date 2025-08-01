@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# IMDb Data Mining \& Movie Analytics
-
-## README
-
 Welcome to the IMDb Data Mining \& Movie Analytics project! This repository demonstrates how to extract, clean, and analyze movie data from IMDb to discover industry trends and insights.
 
 ## Overview
